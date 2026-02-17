@@ -18,7 +18,7 @@
         ],
         "body": {
           "mode": "raw",
-          "raw": "{\n  \"username\": \"admin\",\n  \"password\": \"123\"\n}"
+          "raw": "{\n  \"username\": \"Saimor_cyper\",\n  \"password\": \"admin\"\n}"
         },
         "url": {
           "raw": "{{baseUrl}}/login",
@@ -56,7 +56,7 @@
         "header": [],
         "body": {
           "mode": "raw",
-          "raw": "{\r\n    \"username\": \"Saimor3\",\r\n    \"password\": \"admin2\"\r\n}",
+          "raw": "{\r\n    \"username\": \"Saimor_cyper\",\r\n    \"password\": \"admin\"\r\n}",
           "options": {
             "raw": {
               "language": "json"
@@ -108,13 +108,13 @@
           }
         },
         "url": {
-          "raw": "{{baseUrl}}/user/2",
+          "raw": "{{baseUrl}}/user/1",
           "host": [
             "{{baseUrl}}"
           ],
           "path": [
             "user",
-            "2"
+            "1"
           ]
         }
       },
